@@ -1,1 +1,4 @@
-Watch tutorial @ https://youtu.be/Wj_1OKkfyis
+TUTORIAL: https://youtu.be/Wj_1OKkfyis
+
+REQUIREMENTS:
+- <a href="https://github.com/Sreyas-Sreelal/samp-bcrypt">bcrypt</a>
